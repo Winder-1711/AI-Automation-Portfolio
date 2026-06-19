@@ -1,6 +1,8 @@
 # AI-Automation-Portfolio
-Portfolio of AI Automation, Conversational AI, Voice AI and Workflow Automation projects using Relevance AI, ElevenLabs and Zapier.
+
 # Winder Delgado
+
+AI Automation Specialist especializado en IA Conversacional, Voice AI y Automatización de Procesos Empresariales.
 
 ## AI Automation Specialist
 
@@ -14,6 +16,10 @@ Especialista en Automatización con Inteligencia Artificial enfocado en:
 
 ## Tecnologías
 
+- Claude Cowork
+- Codex
+- Agentes en ChatGpt
+- Agentes en Gemini
 - Relevance AI
 - ElevenLabs
 - Zapier
@@ -22,6 +28,13 @@ Especialista en Automatización con Inteligencia Artificial enfocado en:
 - HTML
 - CSS
 - Databricks
+
+## Resultados
+
+- Más de 20 agentes de IA desarrollados
+- Agentes de voz desplegados en sitios web
+- Automatizaciones empresariales implementadas
+- Integraciones con herramientas de productividad y CRM
 
 ## Certificaciones
 
@@ -43,3 +56,27 @@ Automatización de captación y clasificación de leads.
 
 ### Customer Support Agents
 Agentes conversacionales para soporte empresarial.
+
+## Casos de uso
+
+### Atención al cliente
+
+Agentes conversacionales para soporte y resolución de consultas.
+
+### Generación de Leads
+
+Automatización de prospección y clasificación de clientes potenciales.
+
+### Voice AI
+
+Recepcionistas virtuales con ElevenLabs integradas en páginas web.
+
+### Creación de Contenido
+
+Agentes especializados en generación de contenido para LinkedIn y marketing.
+
+## Evidencia
+
+### Dashboard de agentes desarrollados
+
+![Dashboard](images/relevance-ai-agents-dashboard.png)
