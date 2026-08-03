@@ -1,82 +1,23 @@
-# AI-Automation-Portfolio
+# AI Automation Portfolio
 
-# Winder Delgado
+Portfolio de proyectos de automatización con IA: agentes conversacionales, generación de leads, creación de contenido y soporte al cliente, construidos con **Relevance AI**, **ElevenLabs**, **Lovable** y **Zapier**.
 
-AI Automation Specialist especializado en IA Conversacional, Voice AI y Automatización de Procesos Empresariales.
+## 🧩 Arquitectura destacada — Orquestación multi-agente
 
-## AI Automation Specialist
+Uno de los proyectos más relevantes de este portfolio es un **agente orquestador ("Manager")** construido en Relevance AI: actúa como el "cerebro" del flujo, asegurando que la información pase correctamente entre agentes especialistas (investigación, ventas, soporte, contenido) sin pérdida de contexto. Este patrón —un agente coordinador delegando en subagentes especializados— es la base de varios de los flujos documentados en este portfolio.
 
-Especialista en Automatización con Inteligencia Artificial enfocado en:
+## 📂 Categorías
 
-- AI Agents
-- Conversational AI
-- Voice AI
-- Workflow Automation
-- Customer Success Technology
+- [Voice-AI-Agents](https://github.com/Winder-1711/Voice-AI-Agents) — Asistentes de voz (ElevenLabs)
+- [Lead-Generation-Agents](https://github.com/Winder-1711/Lead-Generation-Agents) — Prospección y outreach (Relevance AI)
+- [Content-Creation-Agents](https://github.com/Winder-1711/Content-Creation-Agents) — Automatización de contenido (Relevance AI)
+- [AI-Support-Agents](https://github.com/Winder-1711/AI-Support-Agents) — Soporte al cliente (Relevance AI + Lovable)
+- [WimagAI](https://github.com/Winder-1711/WimagAI) — Landing page de agencia (Lovable) — [demo](https://wimagai.lovable.app)
 
-## Tecnologías
+## Stack
 
-- Claude Cowork
-- Codex
-- Agentes en ChatGpt
-- Agentes en Gemini
-- Relevance AI
-- ElevenLabs
-- Zapier
-- MCP
-- SQL
-- HTML
-- CSS
-- Databricks
+Relevance AI · ElevenLabs · Lovable · Zapier · Claude Code · Cursor
 
-## Resultados
+## Licencia
 
-- Más de 20 agentes de IA desarrollados
-- Agentes de voz desplegados en sitios web
-- Automatizaciones empresariales implementadas
-- Integraciones con herramientas de productividad y CRM
-
-## Certificaciones
-
-- Master's Degree in Artificial Intelligence
-- Google Cybersecurity Professional Certificate
-- Databricks Fundamentals
-- Databricks AI Agent Fundamentals
-
-## Proyectos
-
-### WimagAI
-Soluciones de IA para automatización empresarial.
-
-### Voice AI Agents
-Agentes de voz integrados en páginas web para soporte y atención al cliente.
-
-### Lead Generation Agents
-Automatización de captación y clasificación de leads.
-
-### Customer Support Agents
-Agentes conversacionales para soporte empresarial.
-
-## Casos de uso
-
-### Atención al cliente
-
-Agentes conversacionales para soporte y resolución de consultas.
-
-### Generación de Leads
-
-Automatización de prospección y clasificación de clientes potenciales.
-
-### Voice AI
-
-Recepcionistas virtuales con ElevenLabs integradas en páginas web.
-
-### Creación de Contenido
-
-Agentes especializados en generación de contenido para LinkedIn y marketing.
-
-## Evidencia
-
-### Dashboard de agentes desarrollados
-
-![Dashboard](images/relevance-ai-agents-dashboard.png)
+MIT — ver [LICENSE](LICENSE).
