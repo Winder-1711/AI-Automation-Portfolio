@@ -6,6 +6,11 @@ Portfolio de proyectos de automatización con IA: agentes conversacionales, gene
 
 Uno de los proyectos más relevantes de este portfolio es un **agente orquestador ("Manager")** construido en Relevance AI: actúa como el "cerebro" del flujo, asegurando que la información pase correctamente entre agentes especialistas (investigación, ventas, soporte, contenido) sin pérdida de contexto. Este patrón —un agente coordinador delegando en subagentes especializados— es la base de varios de los flujos documentados en este portfolio.
 
+## 🚧 En construcción
+
+**CRM para agencias de IA** — herramienta propia (Lovable) pensada como mapa de ruta / CRM para gestionar clientes y proyectos de una agencia de automatización con IA. Actualmente en desarrollo activo.
+- Preview: https://pipe-dream-decoder.lovable.app
+
 ## 📂 Categorías
 
 - [Voice-AI-Agents](https://github.com/Winder-1711/Voice-AI-Agents) — Asistentes de voz (ElevenLabs)
